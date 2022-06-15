@@ -1,0 +1,11 @@
+
+.fondo_amarillo{
+    background-color: yellow;
+}
+
+.fondo_negro{
+    background-color: black;
+    color: white;
+}
+
+#letra_rojo{color: red; }
